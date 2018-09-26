@@ -2,9 +2,7 @@
 
 # Zendesk Answer Bot SDK for iOS
 
-Answer Bot SDK for mobile is a quick, convenient way to get customer support into your mobile apps. With just a few lines of code, you can provide your end users with an artificially intelligent bot, that can suggest articles based on end-users' queries.
-
-an easy way to get in touch from any mobile app.
+Answer Bot SDK for mobile is a quick, convenient way to get customer support into your mobile apps. With just a few lines of code, you can provide your end users with answers to their questions instantly. Answer Bot uses machine learning to suggest Help Center articles based on the user's question.
 
 <!-- ## Demo Applications
 
