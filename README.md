@@ -8,6 +8,27 @@ Answer Bot SDK for mobile is a quick, convenient way to get customer support int
 
 There are a number of simple demo applicaitons [here](https://github.com/zendesk/ios_sdk_demo_apps). -->
 
+---
+
+## Integration
+To use this library in your project you can use CocoaPods, or integrate it manually:
+
+### CocoaPods
+You can integrate Answer Bot in your `Podfile` like this:
+
+```
+pod 'AnswerBotSDK'
+```
+
+### Manual
+
+- Take the Answer Bot `.framework` and `.bundle` files that live in the `AnswerBotSDK/4.x` folder (depending on which version of Swift you are using).
+- Drag them into your project, and link them to your applications
+
+For more information see the [docs](##documentation)
+
+---
+
 ## Documentation
 
 You can find [documentation](https://developer.zendesk.com/embeddables/docs/ios_answer_bot_sdk) for the SDK and [release notes](https://developer.zendesk.com/embeddables/docs/ios_answer_bot_sdk/release_notes) on https://developer.zendesk.com.
@@ -15,6 +36,8 @@ You can find [documentation](https://developer.zendesk.com/embeddables/docs/ios_
 ## Feature request
 
 All enhancement, improvement, and feature request suggestions are welcomed. Please submit them to our [SDK community](https://support.zendesk.com/hc/en-us/community/topics/200488257-Zendesk-SDKs). We will normally close feature requests posted to this repository.
+
+---
 
 ## Copyright and license
 
