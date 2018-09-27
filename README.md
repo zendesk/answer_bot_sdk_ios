@@ -1,5 +1,10 @@
 :warning: *Use of this software is subject to important terms and conditions as set forth in the License file* :warning:
 
+<p align="center">
+<a href="https://github.com/zendesk/answerbot_sdk_ios"><img src="logo/png/AB.png" alt="AnswerBot" width="150" height="150" /></a><br/><br/>
+Your Virtual Customer Assistant.<br/>
+</p>
+
 # Zendesk Answer Bot SDK for iOS
 
 Answer Bot SDK for mobile is a quick, convenient way to get customer support into your mobile apps. With just a few lines of code, you can provide your end users with answers to their questions instantly. Answer Bot uses machine learning to suggest Help Center articles based on the user's question.
@@ -17,7 +22,7 @@ To use this library in your project you can use CocoaPods, or integrate it manua
 You can integrate Answer Bot in your `Podfile` like this:
 
 ```
-pod 'AnswerBotSDK'
+pod 'AnswerBotSDK', '1.0.0-EAP1' 
 ```
 
 ### Manual
