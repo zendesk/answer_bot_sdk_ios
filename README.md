@@ -36,7 +36,7 @@ For more information see the [docs](##documentation)
 
 ## Documentation
 
-You can find [documentation](https://developer.zendesk.com/embeddables/docs/ios_answer_bot_sdk) for the SDK and [release notes](https://developer.zendesk.com/embeddables/docs/ios_answer_bot_sdk/release_notes) on https://developer.zendesk.com.
+You can find [documentation](https://developer.zendesk.com/embeddables/docs/answer-bot-sdk-ios/about) for the SDK and [release notes](https://developer.zendesk.com/embeddables/docs/answer-bot-sdk-ios/release_notes) on https://developer.zendesk.com.
 
 ## Feature request
 
