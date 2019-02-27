@@ -22,7 +22,7 @@ To use this library in your project you can use CocoaPods, or integrate it manua
 You can integrate Answer Bot in your `Podfile` like this:
 
 ```
-pod 'AnswerBotSDK', '1.0.0-EAP1' 
+pod 'AnswerBotSDK', '1.0.0-EAP2' 
 ```
 
 ### Manual
