@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "AnswerBotSDK"
-  s.version      = "1.0.0-EAP1"
+  s.version      = "1.0.0-EAP2"
   s.summary      = "AnswerBotSDK #{s.version.to_s}"
   s.homepage     = "https://github.com/zendesk/answer_bot_sdk_ios"
   s.license      = {
