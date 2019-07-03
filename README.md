@@ -22,12 +22,12 @@ To use this library in your project you can use CocoaPods, or integrate it manua
 You can integrate Answer Bot in your `Podfile` like this:
 
 ```
-pod 'AnswerBotSDK', '1.0.0-EAP2' 
+pod 'AnswerBotSDK'
 ```
 
 ### Manual
 
-- Take the Answer Bot `.framework` and `.bundle` files that live in the `AnswerBotSDK/4.x` folder (depending on which version of Swift you are using).
+- Take the Answer Bot `.framework` and `.bundle` files that live in the `AnswerBotSDK/5.0.1` folder (depending on which version of Swift you are using).
 - Drag them into your project, and link them to your applications
 
 For more information see the [docs](##documentation)
