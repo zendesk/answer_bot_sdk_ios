@@ -32,7 +32,6 @@ Pod::Spec.new do |s|
     ss.ios.vendored_frameworks = "AnswerBotSDK/#{s.swift_version.to_s}/AnswerBotSDK.framework"
     ss.preserve_paths = "AnswerBotSDK/#{s.swift_version.to_s}/AnswerBotSDK.framework"
     ss.dependency 'AnswerBotSDK/Providers'
-    ss.dependency 'AnswerBotSDK/CommonUI'
   end
 
   s.subspec 'Providers' do |ss|
