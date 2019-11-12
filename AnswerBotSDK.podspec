@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "AnswerBotSDK"
-  s.version      = "1.0.3"
+  s.version      = "1.1.0"
   s.summary      = "AnswerBotSDK #{s.version.to_s}"
   s.homepage     = "https://github.com/zendesk/answer_bot_sdk_ios"
   s.license      = {
@@ -19,10 +19,10 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/zendesk/answer_bot_sdk_ios.git", :tag => s.version }
   s.platform     = :ios, '9.3'
   s.requires_arc = true
-  s.swift_version = '5.1.2'
+  s.swift_version = '5.1'
   s.xcconfig = { 'FRAMEWORK_SEARCH_PATHS' => '$(inherited)', 'CLANG_ENABLE_MODULES' => 'YES', 'ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES' => 'YES' }
 
-  s.dependency 'ZendeskSDK', '3.0.3'
+  s.dependency 'ZendeskSDK', '4.0.0'
 
   # Using subspecs to support installation without Localization part
   s.default_subspecs = 'SDK', 'Providers'
