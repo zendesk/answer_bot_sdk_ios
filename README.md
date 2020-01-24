@@ -22,8 +22,10 @@ To use this library in your project you can use CocoaPods, or integrate it manua
 You can integrate Answer Bot in your `Podfile` like this:
 
 ```
-pod 'AnswerBotSDK'
+pod 'ZendeskAnswerBotSDK'
 ```
+:warning: *The old `AnswerBotSDK` has been deprecated* :warning:
+
 
 ### Manual
 
