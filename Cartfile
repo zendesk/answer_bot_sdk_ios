@@ -1,0 +1,2 @@
+github "zendesk/answer_bot_providers_sdk_ios" ~> 2.1.3
+github "zendesk/messaging_sdk_ios" ~> 3.8.2
