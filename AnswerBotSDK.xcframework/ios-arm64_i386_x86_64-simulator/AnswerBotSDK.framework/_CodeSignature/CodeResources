@@ -4,343 +4,323 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>AnswerBotStrings.bundle/Info.plist</key>
+		<key>AnswerBotStrings/Info.plist</key>
 		<data>
-		V5BgcFI1MI6xaa+aCj/K1oSe054=
+		ZbOs1SQ0rSDlgs3pHS6eCaAiwag=
 		</data>
-		<key>AnswerBotStrings.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		WjBos9xRE4h+mvi94vMIZV6Ks+0=
-		</data>
-		<key>AnswerBotStrings.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		OnX22wWFKRSOFN1+obRynMCeyXM=
-		</data>
-		<key>AnswerBotStrings.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		Xcv9ubXZMsoHWBlbtV+mn/CT7EI=
-		</data>
-		<key>AnswerBotStrings.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		Uh2KauzddwxgTNC6vl9pyTNvQe0=
-		</data>
-		<key>AnswerBotStrings.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-		</data>
-		<key>AnswerBotStrings.bundle/ar.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/ar.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mfqW3E0tn3cz1OZC+dABq/1x7f4=
+			ulTq3c4fqPduh5D4v6/cW+chgWI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/bg.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/bg.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1A70BFdaZ7bKQKh4bZtIVlURGbE=
+			iKdjdGtdAq+g8s6PKcAygwlnV9o=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/cs.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/cs.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WgHpqpX0YaFoLn/6PmE0XrYNIUY=
+			8EnKiIzrqe4rQmzV8OtUMGr6DHU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/da.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/da.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZWKVtBl5zaz/G9dS1TRncOZIe6k=
+			7bhOsLyyJQ6aDX6KXHyqSGQqE6c=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/de.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/de.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AloYhIwdbYHdjWtjMSsM1m3V9u0=
+			Pphcl+FI8KA13Geo84IVCCLVY/s=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/el.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/el.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			t0nOf50OMiz/9t7B9yzBynW2Ffw=
+			1uANuZZG/4zpwaY+5O1knql9ToQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/en-GB.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/en-GB.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vt0BNhSUwFy7P6+cT3A35o+hpPk=
+			o3gufkBqKxJ9M6lZS+yaXl3GVok=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/en.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vt0BNhSUwFy7P6+cT3A35o+hpPk=
+			o3gufkBqKxJ9M6lZS+yaXl3GVok=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/es.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/es.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cfCHh6Xc9bRDLLwCLddm2Ge8Epw=
+			W1wyZrmUdXYmtZ7n88eMuApE/6s=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/fi.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/fi.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qLuB1aT96P6H7v+NFxlnBpJvJbM=
+			US+Dia8IFgKaIzavjDEEkEVipjk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/fil.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/fil.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i+97Tq+XrroTsRQnsbHQwLuHMmA=
+			DQ4LcI8h3hTvhA+hUBtc8rIZyQ0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/fr-CA.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/fr-CA.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j4jmOiKNDwzIg1GeidC87oNyed8=
+			LLvqK1h8O+4irK/sUCMB1YvlN+U=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/fr.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/fr.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qSmvg/RA7sMOg1JWXV06pAfrLBI=
+			PorhTDY7i4JaCBAEm9lF+9nkYrc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/he.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/he.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XMdFZQAFh80hWWTVuLpaaCsurVc=
+			XJ22U+CR+W2LtX4dPxbp3T2kkqc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/hi.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/hi.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q44qMtiYX/5Z0b+b3UaW2iRiD9c=
+			BEomvrlSDP1yF3vU3X4LNYXGdOo=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/hu.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/hu.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fIA4OOpIKAX/AEyW07103ir7ucQ=
+			8PX9m90Xt4u/4dPKsV0T7ueW5Sw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/id.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/id.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tSGEiHQZ/kw4bZA3IOJyEubhUwQ=
+			j+rqLOZ8kvatfFB3F6aM4hLOJrc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/it.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/it.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K7yDz9OPfnORuQh0dImxYVNj1GQ=
+			/lNvNOyf9CZBBozlgsmEm9rcXnY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/ja.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/ja.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PEhUK7Ci/rybO1MIcvAzGqhP9tw=
+			PUqXbujRTIcU1foKavN6sjB3Als=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/ko.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/ko.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			b/7/vanRI9uku2W9dexFP9x2XEc=
+			ATdbg+oMyhn4zi1c5uTTzc2pTYA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/ms.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/ms.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xB2bWuVA8H8d580MRw4h5UjSTvk=
+			RRyfSFYh+00FqblHTPU2pxLNKAk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/nb.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/nb.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0AE8/ZangkL8Xb8wV2JWYZuqBY4=
+			VsouHDg6LRV1ndn0fl0TwIAnrhY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/nl.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/nl.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nhZx0DwNi7gRTz8flmWSImeCaBA=
+			wgITNWmL4YBtBHw3ZVkfci7xNlY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/pl.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/pl.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KtcuSn+uFbHgz/REwqnj4n0/8us=
+			S8hjn5Yb9532iu2YawIMTkeLzR0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/pt-BR.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/pt-BR.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V/GiV11Sw6ex1psyAseNN/N0MHA=
+			iLu27208CtuQq62+g1/vBSdSdQw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/pt.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/pt.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V/GiV11Sw6ex1psyAseNN/N0MHA=
+			iLu27208CtuQq62+g1/vBSdSdQw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/ro.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/ro.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pj0a1ts3k8qM+/JIc4NjwN0jJdE=
+			yR2Dpbqle6G6lcNYsv8NcRH/kyY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/ru.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/ru.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GkCPfwDrz55qw1pyGUIeYuRNw48=
+			gkx59j+PR4J3d4tc9wTLhpdRtIc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/sv.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/sv.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yulP0u+lqHlCZi4Z3nh5FV3RrDc=
+			bz8sk80aFmkom/ZIPQ2AawhM7To=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/th.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/th.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nsdvKk4aw4uKGcpYJKmYq+1fi5A=
+			gg7VuFCCHRxzOP9d59JV4AhPFnM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/tr.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/tr.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8Gwbz2Srtu9UUF7Woq8oOhz6NXw=
+			MaZbZ8tYTbxneHNS0ccuwHKDZCY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/vi.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/vi.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Xs4fVLpq9N1YSL59gqvRiPX4pwY=
+			sQfeqYNwzV/8MzSUVbjVYTzsJBU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/zh-Hans.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/zh-Hans.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HGC3c4CQdo7T9WQHtPR7OHSOIag=
+			JhpZ62fojdnoHysr7qVIfgv3ubU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/zh-Hant.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/zh-Hant.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VcIbTBFViKUEpsgcapUIA9bjWnw=
+			vpBojWxpwXdFuxrfuxMpj76xS+Q=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Assets.car</key>
 		<data>
-		WEI806n13cPFieqlZ18YkDa9SSQ=
+		uTEo8v/cJhmAEunGcqd8Myi6bWA=
 		</data>
 		<key>Headers/AnswerBotSDK-Swift.h</key>
 		<data>
-		1/Geb3wF74H2m5Tf100HwY4cPfg=
+		C2exEWZihudeex5ku4HSKvvEdcs=
 		</data>
 		<key>Headers/AnswerBotSDK.h</key>
 		<data>
@@ -348,79 +328,79 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		m7gNHnEgeA2o7FUuCAxrs7IptTI=
+		goOClaYLBdKkFcuDxz1vQ+wNO4A=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		qMOHUgzrXzmsLJdPpXCZtw3+fVM=
+		oK7AfP9Y4Lksui5H9kZDeI3LpGE=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		oWZsOjKJaPNTCt7cey7IdQoCR3c=
+		NmzTl7TvDa4Q1UMROtsuj2yF2AM=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wq2f47pqgnvpLYc7nvyoA+djbiw=
+		gpWj+zs1+8EZcyLwXe4IoNzPJo8=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		qMOHUgzrXzmsLJdPpXCZtw3+fVM=
+		oK7AfP9Y4Lksui5H9kZDeI3LpGE=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		oWZsOjKJaPNTCt7cey7IdQoCR3c=
+		NmzTl7TvDa4Q1UMROtsuj2yF2AM=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		wq2f47pqgnvpLYc7nvyoA+djbiw=
+		gpWj+zs1+8EZcyLwXe4IoNzPJo8=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Rv0+I9C86NavwEo8zEV86ut9zOU=
+		nAb+cTMst8jYN2Qllhyqx+dx3PA=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		HWoKYwRW+33nqRsXEHcUHZj9z/8=
+		n2IUueURDjOfeW16jDcF6sv9V6c=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		g0HlBLlzIMdyUEBHVLf1riMRARc=
+		jiTHC3NxFONfjvI/dqkia5u6+VQ=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/i386.swiftdoc</key>
 		<data>
-		Rv0+I9C86NavwEo8zEV86ut9zOU=
+		nAb+cTMst8jYN2Qllhyqx+dx3PA=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/i386.swiftinterface</key>
 		<data>
-		HWoKYwRW+33nqRsXEHcUHZj9z/8=
+		n2IUueURDjOfeW16jDcF6sv9V6c=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/i386.swiftmodule</key>
 		<data>
-		g0HlBLlzIMdyUEBHVLf1riMRARc=
+		jiTHC3NxFONfjvI/dqkia5u6+VQ=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		HYQm2veAQfDsqKpZinWHVpSH3Wc=
+		SSf2jSyA7H72eWceA9FOSJwHjYA=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		6IfFNmNyOhptRZ7V+5Gazj+aRgk=
+		XzANbxkhVC280N7Hl+8y+DZoy9Y=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/Pw9jbNWA+b7zIM3I5lrryI8x5g=
+		xD6rURFQtvLPlj+w4O2FP70gnsY=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		HYQm2veAQfDsqKpZinWHVpSH3Wc=
+		SSf2jSyA7H72eWceA9FOSJwHjYA=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		6IfFNmNyOhptRZ7V+5Gazj+aRgk=
+		XzANbxkhVC280N7Hl+8y+DZoy9Y=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		/Pw9jbNWA+b7zIM3I5lrryI8x5g=
+		xD6rURFQtvLPlj+w4O2FP70gnsY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -433,510 +413,455 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>AnswerBotStrings.bundle/Info.plist</key>
+		<key>AnswerBotStrings/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V5BgcFI1MI6xaa+aCj/K1oSe054=
+			ZbOs1SQ0rSDlgs3pHS6eCaAiwag=
 			</data>
 			<key>hash2</key>
 			<data>
-			3nSSLD1E2jfwC/bJRBj2r0x1iNfrcKdzRfPEaA8U/u4=
+			A8DO9eWP5INu9DQDSDlH2BN5eCMRkyJqICJLjhENbmo=
 			</data>
 		</dict>
-		<key>AnswerBotStrings.bundle/_CodeSignature/CodeDirectory</key>
+		<key>AnswerBotStrings/ar.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WjBos9xRE4h+mvi94vMIZV6Ks+0=
+			ulTq3c4fqPduh5D4v6/cW+chgWI=
 			</data>
 			<key>hash2</key>
 			<data>
-			MbZF09puCh5BE4kUtrQVRegxy5dBJjinI8bCX3h1IZQ=
-			</data>
-		</dict>
-		<key>AnswerBotStrings.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OnX22wWFKRSOFN1+obRynMCeyXM=
-			</data>
-			<key>hash2</key>
-			<data>
-			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
-			</data>
-		</dict>
-		<key>AnswerBotStrings.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Xcv9ubXZMsoHWBlbtV+mn/CT7EI=
-			</data>
-			<key>hash2</key>
-			<data>
-			UbiHlMeeXXuu8A9C3/pDqVEibwj4E3Ldtk/10b7q0co=
-			</data>
-		</dict>
-		<key>AnswerBotStrings.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Uh2KauzddwxgTNC6vl9pyTNvQe0=
-			</data>
-			<key>hash2</key>
-			<data>
-			iSNuO1MAA47ccpMqn0Otv+loo6xvx7vPCeKG2gQt2Z4=
-			</data>
-		</dict>
-		<key>AnswerBotStrings.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
-			<key>hash2</key>
-			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
-			</data>
-		</dict>
-		<key>AnswerBotStrings.bundle/ar.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mfqW3E0tn3cz1OZC+dABq/1x7f4=
-			</data>
-			<key>hash2</key>
-			<data>
-			6TPQMS3psCa4NIyFOGccIUo5glMC9hZK7OIQHn6u2qs=
+			Bf9DPs9Oe9niDji//HVO7NSR74nsalwO+m8a4Myg5Js=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/bg.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/bg.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1A70BFdaZ7bKQKh4bZtIVlURGbE=
+			iKdjdGtdAq+g8s6PKcAygwlnV9o=
 			</data>
 			<key>hash2</key>
 			<data>
-			eMxFwWz6WMa8y1pgu2sZWpTDoSEcLBAlTkyobkjdhZQ=
+			ucV25yuAx5DsW7AI0f87q3TTvr2YU4Y2yQGimS3pugc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/cs.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/cs.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WgHpqpX0YaFoLn/6PmE0XrYNIUY=
+			8EnKiIzrqe4rQmzV8OtUMGr6DHU=
 			</data>
 			<key>hash2</key>
 			<data>
-			n1tVcwVyltedU1Z0LOe4WnWF6voeYQd4+bumte0bu54=
+			LbTeZ/mBYbvMqISxIXbyUZn+2QL2ICejkPz0zL1MIcs=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/da.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/da.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZWKVtBl5zaz/G9dS1TRncOZIe6k=
+			7bhOsLyyJQ6aDX6KXHyqSGQqE6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			9xhKrjxpxvqgIWKWebvS/J4NG3X63lXjXakrT7HWlFQ=
+			jd47ksn/Z4TxBBFgL2TAH9/N8+Orqptnf8e4io38oSU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/de.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/de.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AloYhIwdbYHdjWtjMSsM1m3V9u0=
+			Pphcl+FI8KA13Geo84IVCCLVY/s=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ay9Wf0TKgPD9GwtqaKjjMjAbU6XY3UxeMP2riRwml8A=
+			YfIbdWQ+83ycIY7Z+D5xIjrZIgh97GBzyeuBc26XV0w=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/el.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/el.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			t0nOf50OMiz/9t7B9yzBynW2Ffw=
+			1uANuZZG/4zpwaY+5O1knql9ToQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			m3rZ2hJ+JjtkW2hsVeML+zi1J6SX3g5Pou4AQd6Q8w4=
+			Kf+h/gTcu9YsVaqaKPkccKap5UN4a9+LRi4RcmlVpio=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/en-GB.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/en-GB.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vt0BNhSUwFy7P6+cT3A35o+hpPk=
+			o3gufkBqKxJ9M6lZS+yaXl3GVok=
 			</data>
 			<key>hash2</key>
 			<data>
-			j4ftfQfbck+YL2MsSVfDEqTa+qAHxRowZPj7bHuvfIQ=
+			wMsg1RKWco42fO1m13XGU+K9l7hAjCng6fwHJMuSCC8=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/en.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vt0BNhSUwFy7P6+cT3A35o+hpPk=
+			o3gufkBqKxJ9M6lZS+yaXl3GVok=
 			</data>
 			<key>hash2</key>
 			<data>
-			j4ftfQfbck+YL2MsSVfDEqTa+qAHxRowZPj7bHuvfIQ=
+			wMsg1RKWco42fO1m13XGU+K9l7hAjCng6fwHJMuSCC8=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/es.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/es.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cfCHh6Xc9bRDLLwCLddm2Ge8Epw=
+			W1wyZrmUdXYmtZ7n88eMuApE/6s=
 			</data>
 			<key>hash2</key>
 			<data>
-			JImajgUHWbhB+y2gq5hvsBSFnQVkjhVW4p/+6bFw3AM=
+			XW0Ng7IaYF7o520JlxfNzGrjTDOH/E1XGMZ1QHYbGEU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/fi.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/fi.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qLuB1aT96P6H7v+NFxlnBpJvJbM=
+			US+Dia8IFgKaIzavjDEEkEVipjk=
 			</data>
 			<key>hash2</key>
 			<data>
-			aAxTlGG+W31MmT74zxxKvBkabdESYxIx+us9G8QhpJQ=
+			NPZMQFZcH2yPH+fai2gB2tdk1t530z4wjqBbWtUxVVY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/fil.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/fil.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i+97Tq+XrroTsRQnsbHQwLuHMmA=
+			DQ4LcI8h3hTvhA+hUBtc8rIZyQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			WJ1XCDw0H78iFL/NQ1AdToB/1YvaD+5EBj/QSREmK4s=
+			hU3ru18On4VsTPkNy2KNzSnQDAj5xKHmTEdsvZ0TPko=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/fr-CA.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/fr-CA.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j4jmOiKNDwzIg1GeidC87oNyed8=
+			LLvqK1h8O+4irK/sUCMB1YvlN+U=
 			</data>
 			<key>hash2</key>
 			<data>
-			YS74mrliKg2yRv1/WrFPY+OfqrYhMXiyKEodIvmAR3A=
+			nZc6IWifodYOpRvvR1IgOalVxRZHr71q6Oes1vleXFM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/fr.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/fr.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qSmvg/RA7sMOg1JWXV06pAfrLBI=
+			PorhTDY7i4JaCBAEm9lF+9nkYrc=
 			</data>
 			<key>hash2</key>
 			<data>
-			7WiYDbfIPuRRHMUlE5Fm38X05mFzm8G0WhkzBZrMGaU=
+			z1MlaN8CVfDl3WBHMzLVvPd6UoS5Jz8zDOS595cz17w=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/he.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/he.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XMdFZQAFh80hWWTVuLpaaCsurVc=
+			XJ22U+CR+W2LtX4dPxbp3T2kkqc=
 			</data>
 			<key>hash2</key>
 			<data>
-			y+Dp4OFWpuTSQSkukXaR36fPJzzN/NhnYld2NCUaajg=
+			LKMn9FqTahhcd0XGxLxaDi09BD7CsA6DWdUkuNPBmR0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/hi.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/hi.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q44qMtiYX/5Z0b+b3UaW2iRiD9c=
+			BEomvrlSDP1yF3vU3X4LNYXGdOo=
 			</data>
 			<key>hash2</key>
 			<data>
-			0Guw+BDdysEv3ZO7wciBAmcnxmIQ43f3MQHS/9dCmV8=
+			Q/aFu2cWsPLZgm7bINqBKMfIyoQ1Q6cPzbn8AX+5kjk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/hu.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/hu.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fIA4OOpIKAX/AEyW07103ir7ucQ=
+			8PX9m90Xt4u/4dPKsV0T7ueW5Sw=
 			</data>
 			<key>hash2</key>
 			<data>
-			AgFi5RspO0h4Gdp93fapSQj8FnIxU8ODzKKWs7iFUq4=
+			J8Iw+N4JG+RBIWhwEXLXvso4l1NNjMti471DUy4nFSc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/id.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/id.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tSGEiHQZ/kw4bZA3IOJyEubhUwQ=
+			j+rqLOZ8kvatfFB3F6aM4hLOJrc=
 			</data>
 			<key>hash2</key>
 			<data>
-			YjmmE9EUvLRRdaXNmN+TGZbGS+K4dwLOFst75ysj/a0=
+			h5ItahldWMI49K6i4/gyXLgD9Z5WKFsfmhyFOjVt2HQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/it.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/it.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K7yDz9OPfnORuQh0dImxYVNj1GQ=
+			/lNvNOyf9CZBBozlgsmEm9rcXnY=
 			</data>
 			<key>hash2</key>
 			<data>
-			gBx/nSJz0U1HBEhwSEvDMoDyENGBCGoKDZBLMxsmSpg=
+			M2H89Zy06wtOhvPje70Ks1W5MKIdX0iz6re4sRjqSq4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/ja.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/ja.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PEhUK7Ci/rybO1MIcvAzGqhP9tw=
+			PUqXbujRTIcU1foKavN6sjB3Als=
 			</data>
 			<key>hash2</key>
 			<data>
-			ks8lLoZaVXHVSTg9VzKobV+9D9i3+VZSt+ZhamKgn9Q=
+			Y624/6FridHHjITTNbsMMR6+FKqSWWcdF5cwK6u5VcA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/ko.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/ko.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			b/7/vanRI9uku2W9dexFP9x2XEc=
+			ATdbg+oMyhn4zi1c5uTTzc2pTYA=
 			</data>
 			<key>hash2</key>
 			<data>
-			iVatND/4VpPrJ3jLg7rrqd6LsA0FYFsIIp0pl/XSNG4=
+			rcWGbNs3AY+VFPuIStMGcZ3VybcM1hL6kEFahCazXU8=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/ms.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/ms.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xB2bWuVA8H8d580MRw4h5UjSTvk=
+			RRyfSFYh+00FqblHTPU2pxLNKAk=
 			</data>
 			<key>hash2</key>
 			<data>
-			zrUyDsEVx6JO5aXM+EmGvyxU2Jzda9ELD3tZmpnd8Fg=
+			+WoE5P8L1GZx3S8v4VQZaaXuUtRP+RqXN4bXv7c877Q=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/nb.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/nb.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0AE8/ZangkL8Xb8wV2JWYZuqBY4=
+			VsouHDg6LRV1ndn0fl0TwIAnrhY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ljzP/AI0MEpmuX/d9UZnYbG9HgxdVLkQvRqfKc6BwUY=
+			aTUeiuI2HaH17bF7y+gDUVlSYk4rJU9DBSZmhjAzrcU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/nl.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/nl.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nhZx0DwNi7gRTz8flmWSImeCaBA=
+			wgITNWmL4YBtBHw3ZVkfci7xNlY=
 			</data>
 			<key>hash2</key>
 			<data>
-			jZWOaMj/8rPlB+LqSaIcU/Xcezbdd2sJloU5gQvw/g0=
+			GvC5IeIogz9tRX2PsPJn+Ay14tHWMOfE52EJPpJDrfQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/pl.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/pl.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KtcuSn+uFbHgz/REwqnj4n0/8us=
+			S8hjn5Yb9532iu2YawIMTkeLzR0=
 			</data>
 			<key>hash2</key>
 			<data>
-			8+Dkib45yZPOUagrJvOiLD99kYlMxNkOo5AnxkP6upQ=
+			lSt8w2zBoBwe0d4g5R3p+lfMbNQ/feCVirD06giWzMI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/pt-BR.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/pt-BR.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V/GiV11Sw6ex1psyAseNN/N0MHA=
+			iLu27208CtuQq62+g1/vBSdSdQw=
 			</data>
 			<key>hash2</key>
 			<data>
-			wppk9zY58aeTXyQ4s3tPunBTyAaAW0J7j4MkLT/ywrQ=
+			r24VA3ki1PCBL6cjTAmB1xXS/hDDD2H5MitWaVjBa9Y=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/pt.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/pt.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V/GiV11Sw6ex1psyAseNN/N0MHA=
+			iLu27208CtuQq62+g1/vBSdSdQw=
 			</data>
 			<key>hash2</key>
 			<data>
-			wppk9zY58aeTXyQ4s3tPunBTyAaAW0J7j4MkLT/ywrQ=
+			r24VA3ki1PCBL6cjTAmB1xXS/hDDD2H5MitWaVjBa9Y=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/ro.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/ro.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pj0a1ts3k8qM+/JIc4NjwN0jJdE=
+			yR2Dpbqle6G6lcNYsv8NcRH/kyY=
 			</data>
 			<key>hash2</key>
 			<data>
-			kBYfsmE+UGqa5D2Mmb7W7G7A1MoZ730dIDRr8pvNo2A=
+			0n3rKFkPglIfUIz6HkM8Js6kQ7V2AZK8TfQfxuWHttQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/ru.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/ru.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GkCPfwDrz55qw1pyGUIeYuRNw48=
+			gkx59j+PR4J3d4tc9wTLhpdRtIc=
 			</data>
 			<key>hash2</key>
 			<data>
-			lRM6oSBdW2l5RK9eQwIKbuaTOcowRKK1QMAEUx189T4=
+			rfuPvYdQcZj6bT9EJk/IdD3HFmY31J2QWbcRVUL9PEo=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/sv.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/sv.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yulP0u+lqHlCZi4Z3nh5FV3RrDc=
+			bz8sk80aFmkom/ZIPQ2AawhM7To=
 			</data>
 			<key>hash2</key>
 			<data>
-			l1LsUxQfsFKnLV24ZV1+5ojEV388p5AAEZ24QGUHmlU=
+			iX4G1p6o9UX2TKvOUFaeRLsEiduYYRPXeqzDnt6dXBs=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/th.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/th.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nsdvKk4aw4uKGcpYJKmYq+1fi5A=
+			gg7VuFCCHRxzOP9d59JV4AhPFnM=
 			</data>
 			<key>hash2</key>
 			<data>
-			3/PsU7A/jD4kIr9ejzqoSTz13ONcWc8g1RTgrKsF2+Y=
+			xnR27DUundDy5ek98oqH2xryaHxa1gBa8ELqu/QvuoA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/tr.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/tr.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8Gwbz2Srtu9UUF7Woq8oOhz6NXw=
+			MaZbZ8tYTbxneHNS0ccuwHKDZCY=
 			</data>
 			<key>hash2</key>
 			<data>
-			I8ODTEOIRw4qttoD6SGJ+4uLIInydFGboJ9oKizxKGI=
+			YxQ1qUnsfzLlqKqrTaXebmMJ5z7jfoAxTozO3k5fDc0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/vi.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/vi.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Xs4fVLpq9N1YSL59gqvRiPX4pwY=
+			sQfeqYNwzV/8MzSUVbjVYTzsJBU=
 			</data>
 			<key>hash2</key>
 			<data>
-			y7QjQjJq4tQnTWx0EVWwtw5aTccrQWS/+hFYuhI/Tx8=
+			r62QoQuBtT3wFcU2PyhktRvQipTl5rplgis5bIrnTIA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/zh-Hans.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/zh-Hans.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HGC3c4CQdo7T9WQHtPR7OHSOIag=
+			JhpZ62fojdnoHysr7qVIfgv3ubU=
 			</data>
 			<key>hash2</key>
 			<data>
-			XdXkSJBrTaRE+ogdpqfTyazJQn/q/8m8f0V38RAXQ9E=
+			dXlzZ0gFsji2KTOjYqo3CWecXrqSK6gzD86/D5QcKnU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AnswerBotStrings.bundle/zh-Hant.lproj/Localizable.strings</key>
+		<key>AnswerBotStrings/zh-Hant.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VcIbTBFViKUEpsgcapUIA9bjWnw=
+			vpBojWxpwXdFuxrfuxMpj76xS+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			R6Dg+2yblC/wfloahThdIYjZVUwFgFQ4jXOAFX3P03E=
+			UDUIL4uL73kTz6pyqkoFLEopitV4V0GS8qmn0ae+pp0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -945,22 +870,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WEI806n13cPFieqlZ18YkDa9SSQ=
+			uTEo8v/cJhmAEunGcqd8Myi6bWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			JrV6/xUvtzcZrogv/Bl0G/xGOL6GtY50ZUEdXTkaspI=
+			DEiKqv61kBe1CCwloUV0XbySZe1MIMU3k/U/ombT1YY=
 			</data>
 		</dict>
 		<key>Headers/AnswerBotSDK-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1/Geb3wF74H2m5Tf100HwY4cPfg=
+			C2exEWZihudeex5ku4HSKvvEdcs=
 			</data>
 			<key>hash2</key>
 			<data>
-			degoX0TtCa2t2fDdxPNIBTe9dVNvA2r52iGJEB1dNRc=
+			nV4pbUKo76/jWh/KiMTp1rvoqdehZdsKPJ9Ax72/5ug=
 			</data>
 		</dict>
 		<key>Headers/AnswerBotSDK.h</key>
@@ -978,198 +903,198 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qMOHUgzrXzmsLJdPpXCZtw3+fVM=
+			oK7AfP9Y4Lksui5H9kZDeI3LpGE=
 			</data>
 			<key>hash2</key>
 			<data>
-			HLlrwjU4Nq5kCyQS1+jHlLHY5no439RyZB0THqdPQp4=
+			zD+Y8aXbxdEPXl0XNsToj462yRBFAqnH6TRJTuBGeNw=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oWZsOjKJaPNTCt7cey7IdQoCR3c=
+			NmzTl7TvDa4Q1UMROtsuj2yF2AM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ORRNPGr/QHxWsykvF7B52VqXRFSsi9EO1yp52lgJaac=
+			NrVm4V5ZlsntO8UifTd8rX2OolKAKXlQhFofe/GYYm8=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wq2f47pqgnvpLYc7nvyoA+djbiw=
+			gpWj+zs1+8EZcyLwXe4IoNzPJo8=
 			</data>
 			<key>hash2</key>
 			<data>
-			q/9ZIcl4aoGudo2bRrhA91DGaPIhQUexF8Xhhjj2nmU=
+			Ti5pEnz5GkKmNFIFqKtRcKKWx5KZrQ019TiYbeqFF1A=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qMOHUgzrXzmsLJdPpXCZtw3+fVM=
+			oK7AfP9Y4Lksui5H9kZDeI3LpGE=
 			</data>
 			<key>hash2</key>
 			<data>
-			HLlrwjU4Nq5kCyQS1+jHlLHY5no439RyZB0THqdPQp4=
+			zD+Y8aXbxdEPXl0XNsToj462yRBFAqnH6TRJTuBGeNw=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oWZsOjKJaPNTCt7cey7IdQoCR3c=
+			NmzTl7TvDa4Q1UMROtsuj2yF2AM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ORRNPGr/QHxWsykvF7B52VqXRFSsi9EO1yp52lgJaac=
+			NrVm4V5ZlsntO8UifTd8rX2OolKAKXlQhFofe/GYYm8=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wq2f47pqgnvpLYc7nvyoA+djbiw=
+			gpWj+zs1+8EZcyLwXe4IoNzPJo8=
 			</data>
 			<key>hash2</key>
 			<data>
-			q/9ZIcl4aoGudo2bRrhA91DGaPIhQUexF8Xhhjj2nmU=
+			Ti5pEnz5GkKmNFIFqKtRcKKWx5KZrQ019TiYbeqFF1A=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rv0+I9C86NavwEo8zEV86ut9zOU=
+			nAb+cTMst8jYN2Qllhyqx+dx3PA=
 			</data>
 			<key>hash2</key>
 			<data>
-			iHcSR8TV374chFLDPf6A8ebGw5eo1hvR8rcHW5Y9gvE=
+			9/y67SIWrZ4+R7wwaW5QkbEVbS+Jf713vaNJ7BJZndY=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HWoKYwRW+33nqRsXEHcUHZj9z/8=
+			n2IUueURDjOfeW16jDcF6sv9V6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			cFbRx+UwuqJg5q2qTBkSDy4+lfMCRNb8LVavwf0Z4iw=
+			IXMiNA0o2iVvkwWa3XvXseyCtt+qjtE1St0w78aBmpc=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			g0HlBLlzIMdyUEBHVLf1riMRARc=
+			jiTHC3NxFONfjvI/dqkia5u6+VQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			C/clhw2e4OP+oRqaW7oFdlkOUjDFg07yqqOUbULClw0=
+			oOttJB57entWaiMvOIw3dSeZ/UG9qR+iG4AboYOto8A=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rv0+I9C86NavwEo8zEV86ut9zOU=
+			nAb+cTMst8jYN2Qllhyqx+dx3PA=
 			</data>
 			<key>hash2</key>
 			<data>
-			iHcSR8TV374chFLDPf6A8ebGw5eo1hvR8rcHW5Y9gvE=
+			9/y67SIWrZ4+R7wwaW5QkbEVbS+Jf713vaNJ7BJZndY=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/i386.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HWoKYwRW+33nqRsXEHcUHZj9z/8=
+			n2IUueURDjOfeW16jDcF6sv9V6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			cFbRx+UwuqJg5q2qTBkSDy4+lfMCRNb8LVavwf0Z4iw=
+			IXMiNA0o2iVvkwWa3XvXseyCtt+qjtE1St0w78aBmpc=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			g0HlBLlzIMdyUEBHVLf1riMRARc=
+			jiTHC3NxFONfjvI/dqkia5u6+VQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			C/clhw2e4OP+oRqaW7oFdlkOUjDFg07yqqOUbULClw0=
+			oOttJB57entWaiMvOIw3dSeZ/UG9qR+iG4AboYOto8A=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HYQm2veAQfDsqKpZinWHVpSH3Wc=
+			SSf2jSyA7H72eWceA9FOSJwHjYA=
 			</data>
 			<key>hash2</key>
 			<data>
-			WDofTLICavIgHBZ3wE4hNQsSCrQrRZ8UpMPswTmiB0o=
+			KfauBAjmwn6GYa4w2nPoDJ9VOo2eXVoysBaEIsy5m/8=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6IfFNmNyOhptRZ7V+5Gazj+aRgk=
+			XzANbxkhVC280N7Hl+8y+DZoy9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			nUvnFA1uRXjP1gvosLLdMDTaMfxxlK4XCmJdSwuYNaE=
+			fH4+JEPVEDgY5Lt7JV5rYHTRUAcwuEq2zPqy/BEeuVQ=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/Pw9jbNWA+b7zIM3I5lrryI8x5g=
+			xD6rURFQtvLPlj+w4O2FP70gnsY=
 			</data>
 			<key>hash2</key>
 			<data>
-			wxKv4n1ZWaT/P+hZ+XyNyLm15V+m5EZQk3Pa9OmqDRE=
+			UUrH9Xp+zY7upxsoCAPhm1Vj/zo13/yzpVikQsGC2RI=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HYQm2veAQfDsqKpZinWHVpSH3Wc=
+			SSf2jSyA7H72eWceA9FOSJwHjYA=
 			</data>
 			<key>hash2</key>
 			<data>
-			WDofTLICavIgHBZ3wE4hNQsSCrQrRZ8UpMPswTmiB0o=
+			KfauBAjmwn6GYa4w2nPoDJ9VOo2eXVoysBaEIsy5m/8=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6IfFNmNyOhptRZ7V+5Gazj+aRgk=
+			XzANbxkhVC280N7Hl+8y+DZoy9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			nUvnFA1uRXjP1gvosLLdMDTaMfxxlK4XCmJdSwuYNaE=
+			fH4+JEPVEDgY5Lt7JV5rYHTRUAcwuEq2zPqy/BEeuVQ=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/Pw9jbNWA+b7zIM3I5lrryI8x5g=
+			xD6rURFQtvLPlj+w4O2FP70gnsY=
 			</data>
 			<key>hash2</key>
 			<data>
-			wxKv4n1ZWaT/P+hZ+XyNyLm15V+m5EZQk3Pa9OmqDRE=
+			UUrH9Xp+zY7upxsoCAPhm1Vj/zo13/yzpVikQsGC2RI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

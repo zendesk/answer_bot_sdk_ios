@@ -1,11 +1,12 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
+// swift-compiler-version: Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
 // swift-module-flags: -target x86_64-apple-ios10.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name AnswerBotProvidersSDK
 @_exported import AnswerBotProvidersSDK
 import Foundation
 import SupportProvidersSDK
 import Swift
 import ZendeskCoreSDK
+import _Concurrency
 @_inheritsConvenienceInitializers @objc(ZDKAnswerBotSettings) final public class AnswerBotSettings : ObjectiveC.NSObject, Swift.Decodable, ZendeskCoreSDK.DecodableDefault {
   public typealias DefaultType = AnswerBotProvidersSDK.AnswerBotSettings
   @objc final public let enabled: Swift.Bool
@@ -21,7 +22,7 @@ import ZendeskCoreSDK
   @objc final public let title: Swift.String
   @objc final public let htmlURL: Swift.String
   @objc final public let url: Swift.String
-  @objc final public let labelNames: [Swift.String]
+  @objc final public let labelNames: [Swift.String]?
   @objc final public let body: Swift.String
   @objc final public let articleId: Swift.Int64
   @objc final public let locale: Swift.String
@@ -31,9 +32,8 @@ import ZendeskCoreSDK
   public init(id: Swift.Int64, title: Swift.String, htmlURL: Swift.String, url: Swift.String, labelNames: [Swift.String], body: Swift.String, articleId: Swift.Int64, locale: Swift.String, brandId: Swift.Int64, score: Swift.Double, snippet: Swift.String)
   @objc override final public func isEqual(_ object: Any?) -> Swift.Bool
   @objc deinit
-  @objc override dynamic public init()
-  public init(from decoder: Swift.Decoder) throws
   final public func encode(to encoder: Swift.Encoder) throws
+  public init(from decoder: Swift.Decoder) throws
 }
 public typealias AnswerBotProviderCallBack = (Swift.Result<AnswerBotProvidersSDK.AnswerBotDispatcherResponse, Swift.Error>) -> Swift.Void
 public typealias AnswerBotDeflectionCallback = (Swift.Result<AnswerBotProvidersSDK.DeflectionResponse, Swift.Error>) -> Swift.Void
@@ -47,9 +47,8 @@ public protocol AnswerBotProviderProtocol {
   final public func resolveWithArticle(deflectionId: Swift.Int64, articleId: Swift.Int64, interactionAccessToken: Swift.String, callback: @escaping AnswerBotProvidersSDK.AnswerBotProviderCallBack)
   final public func rejectWithArticle(deflectionId: Swift.Int64, articleId: Swift.Int64, interactionAccessToken: Swift.String, reason: AnswerBotProvidersSDK.RejectionReason = .unknown, callback: @escaping AnswerBotProvidersSDK.AnswerBotProviderCallBack)
   @objc deinit
-  @objc override dynamic public init()
 }
-extension AnswerBotProvider {
+extension AnswerBotProvidersSDK.AnswerBotProvider {
   @available(swift, obsoleted: 1.0)
   @objc final public func getDeflectionForQuery(query: Swift.String, callback: @escaping ((AnswerBotProvidersSDK.DeflectionResponse?, Swift.Error?) -> Swift.Void))
   @available(swift, obsoleted: 1.0)
@@ -61,11 +60,11 @@ extension AnswerBotProvider {
   case unknown
   case notRelated
   case relatedButDidntAnswer
+  public init?(rawValue: Swift.Int)
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
     get
   }
-  public init?(rawValue: Swift.Int)
 }
 @objc(ZDKDeflectionResponse) final public class DeflectionResponse : ObjectiveC.NSObject, Swift.Codable {
   @objc final public let deflection: AnswerBotProvidersSDK.Deflection
@@ -73,15 +72,15 @@ extension AnswerBotProvider {
   @objc final public let interactionAccessToken: Swift.String
   @objc override final public func isEqual(_ object: Any?) -> Swift.Bool
   @objc deinit
-  public init(from decoder: Swift.Decoder) throws
   final public func encode(to encoder: Swift.Encoder) throws
+  public init(from decoder: Swift.Decoder) throws
 }
 @objc(ZDKDeflection) final public class Deflection : ObjectiveC.NSObject, Swift.Codable {
   @objc final public let deflectionID: Swift.Int64
   @objc override final public func isEqual(_ object: Any?) -> Swift.Bool
   @objc deinit
-  public init(from decoder: Swift.Decoder) throws
   final public func encode(to encoder: Swift.Encoder) throws
+  public init(from decoder: Swift.Decoder) throws
 }
 @_hasMissingDesignatedInitializers @objc(ZDKAnswerBot) final public class AnswerBot : ObjectiveC.NSObject {
   @objc final public let provider: AnswerBotProvidersSDK.AnswerBotProvider
@@ -90,7 +89,6 @@ extension AnswerBotProvider {
     @objc get
   }
   @objc deinit
-  @objc override dynamic public init()
 }
 public protocol AnswerBotSettingsProviderProtocol {
   static func getSettings(callback: @escaping (AnswerBotProvidersSDK.AnswerBotSettings?) -> Swift.Void)
@@ -104,7 +102,6 @@ public protocol AnswerBotSettingsProviderProtocol {
   @objc final public let data: Foundation.Data?
   public init(response: Foundation.HTTPURLResponse, data: Foundation.Data?)
   @objc override final public func isEqual(_ object: Any?) -> Swift.Bool
-  @objc override dynamic public init()
   @objc deinit
 }
 extension AnswerBotProvidersSDK.RejectionReason : Swift.Equatable {}
