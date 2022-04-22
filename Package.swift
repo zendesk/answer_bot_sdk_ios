@@ -16,10 +16,10 @@ let package = Package(
     dependencies: [
         .package(name: "ZendeskAnswerBotProvidersSDK",
                  url: "https://github.com/zendesk/answer_bot_providers_sdk_ios",
-                 .exact("2.1.5")),
+                 .exact("2.2.0")),
         .package(name: "ZendeskMessagingSDK",
                  url: "https://github.com/zendesk/messaging_sdk_ios",
-                 .exact("3.8.4"))
+                 .exact("3.8.5"))
     ],
     targets: [
         .binaryTarget(
