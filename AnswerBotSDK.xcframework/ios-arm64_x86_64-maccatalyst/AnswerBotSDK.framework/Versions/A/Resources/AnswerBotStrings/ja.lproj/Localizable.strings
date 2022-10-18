@@ -3,7 +3,7 @@
 "ios.answer_bot.article.view.anwser.label.related" = "関係はあるが、質問の答えではない";
 "ios.answer_bot.article.view.anwser.label.yes" = "はい";
 "ios.answer_bot.article.view.label.tell_us_why" = "理由を選んでください。";
-"ios.answer_bot.article.view.label.was_this_helpful" = "この記事が役に立ちましたか？";
+"ios.answer_bot.article.view.label.was_this_helpful" = "お役に立ちましたか？";
 "ios.answer_bot.article_view.label.question" = "この記事で疑問が解消されましたか？";
 "ios.answer_bot.cell.text.article_helpful_question" = "お読みいただいた記事で疑問は解消されましたか？";
 "ios.answer_bot.cell.text.ask_me_another_question_no_transfer_options" = "他の質問をしてみてください。";

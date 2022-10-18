@@ -3,7 +3,7 @@ import PackageDescription
 let package = Package(
     name: "ZendeskAnswerBotSDK",
     platforms: [
-        .iOS(.v10)
+        .iOS(.v11)
     ],
     products: [
         .library(
@@ -16,10 +16,10 @@ let package = Package(
     dependencies: [
         .package(name: "ZendeskAnswerBotProvidersSDK",
                  url: "https://github.com/zendesk/answer_bot_providers_sdk_ios",
-                 .exact("2.2.0")),
+                 .exact("3.0.0")),
         .package(name: "ZendeskMessagingSDK",
                  url: "https://github.com/zendesk/messaging_sdk_ios",
-                 .exact("3.8.5"))
+                 .exact("4.0.0"))
     ],
     targets: [
         .binaryTarget(
