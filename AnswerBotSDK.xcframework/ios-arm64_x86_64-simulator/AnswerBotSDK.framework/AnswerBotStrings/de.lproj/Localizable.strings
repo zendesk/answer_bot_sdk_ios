@@ -6,7 +6,7 @@
 "ios.answer_bot.article.view.label.was_this_helpful" = "War dieser Beitrag hilfreich?";
 "ios.answer_bot.article_view.label.question" = "Hat dieser Beitrag die Frage beantwortet?";
 "ios.answer_bot.cell.text.article_helpful_question" = "Wurde Ihre Frage durch diesen Beitrag beantwortet?";
-"ios.answer_bot.cell.text.ask_me_another_question_no_transfer_options" = "Sie können eine andere Frage stellen.";
+"ios.answer_bot.cell.text.ask_me_another_question_no_transfer_options" = "Sie können eine weitere Frage stellen.";
 "ios.answer_bot.cell.text.inactivity_get_in_touch_message" = "Sie können auch Kontakt mit uns aufnehmen.";
 "ios.answer_bot.cell.text.type_another_question" = "Wenn ich anderweitig helfen kann, geben Sie einfach eine andere Frage ein.";
 "ios.answer_bot.load_article.error" = "Fehler beim Laden des Beitrags";
@@ -19,5 +19,5 @@
 "ios.answer_bot.title.name" = "Answer Bot";
 "ios.answer_bot.ui.type_your_question.input.label" = "Frage eingeben...";
 "ios.answer_bot.cell.text.ask_me_another_question" = "Sie können auch eine andere Frage stellen.";
-"ios.answer_bot.cell.text.question_resolved" = "Sehr gut. Wissen ist Macht.";
+"ios.answer_bot.cell.text.question_resolved" = "Super, Neugierde zahlt sich aus.";
 "ios.answer_bot.cell.text.question_unresolved" = "Ich verstehe. Ihre Frage ist noch nicht beantwortet.";
