@@ -19,5 +19,5 @@
 "ios.answer_bot.title.name" = "Answer Bot";
 "ios.answer_bot.ui.type_your_question.input.label" = "Digite sua pergunta...";
 "ios.answer_bot.cell.text.ask_me_another_question" = "Ou você pode fazer outra pergunta.";
-"ios.answer_bot.cell.text.question_resolved" = "Legal! Conhecimento é poder.";
+"ios.answer_bot.cell.text.question_resolved" = "Ótimo! Conhecimento é poder.";
 "ios.answer_bot.cell.text.question_unresolved" = "Entendi. Sua pergunta ainda não foi respondida.";

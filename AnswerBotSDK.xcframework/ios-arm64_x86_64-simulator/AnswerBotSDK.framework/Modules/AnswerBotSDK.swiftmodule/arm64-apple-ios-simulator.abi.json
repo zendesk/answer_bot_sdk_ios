@@ -1,0 +1,2799 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MessagingAPI",
+        "printedName": "MessagingAPI",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AnswerBotProvidersSDK",
+        "printedName": "AnswerBotProvidersSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "MessagingAPI",
+        "printedName": "MessagingAPI",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "ZendeskCoreSDK",
+        "printedName": "ZendeskCoreSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CommonUISDK",
+        "printedName": "CommonUISDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AnswerBotProvidersSDK",
+        "printedName": "AnswerBotProvidersSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "MessagingAPI",
+        "printedName": "MessagingAPI",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CommonUISDK",
+        "printedName": "CommonUISDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ZendeskCoreSDK",
+        "printedName": "ZendeskCoreSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CommonUISDK",
+        "printedName": "CommonUISDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CommonUISDK",
+        "printedName": "CommonUISDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "ZendeskCoreSDK",
+        "printedName": "ZendeskCoreSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "MessagingAPI",
+        "printedName": "MessagingAPI",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SupportProvidersSDK",
+        "printedName": "SupportProvidersSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CommonUISDK",
+        "printedName": "CommonUISDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CommonUISDK",
+        "printedName": "CommonUISDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ZendeskCoreSDK",
+        "printedName": "ZendeskCoreSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "InteractionDataProtocol",
+        "printedName": "InteractionDataProtocol",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "deflectionId",
+            "printedName": "deflectionId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int64",
+                "printedName": "Swift.Int64",
+                "usr": "s:s5Int64V"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12AnswerBotSDK23InteractionDataProtocolP12deflectionIds5Int64Vvp",
+            "mangledName": "$s12AnswerBotSDK23InteractionDataProtocolP12deflectionIds5Int64Vvp",
+            "moduleName": "AnswerBotSDK",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int64",
+                    "printedName": "Swift.Int64",
+                    "usr": "s:s5Int64V"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12AnswerBotSDK23InteractionDataProtocolP12deflectionIds5Int64Vvg",
+                "mangledName": "$s12AnswerBotSDK23InteractionDataProtocolP12deflectionIds5Int64Vvg",
+                "moduleName": "AnswerBotSDK",
+                "genericSig": "<τ_0_0 where τ_0_0 : AnswerBotSDK.InteractionDataProtocol>",
+                "sugared_genericSig": "<Self where Self : AnswerBotSDK.InteractionDataProtocol>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "interactionAccessToken",
+            "printedName": "interactionAccessToken",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12AnswerBotSDK23InteractionDataProtocolP22interactionAccessTokenSSvp",
+            "mangledName": "$s12AnswerBotSDK23InteractionDataProtocolP22interactionAccessTokenSSvp",
+            "moduleName": "AnswerBotSDK",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12AnswerBotSDK23InteractionDataProtocolP22interactionAccessTokenSSvg",
+                "mangledName": "$s12AnswerBotSDK23InteractionDataProtocolP22interactionAccessTokenSSvg",
+                "moduleName": "AnswerBotSDK",
+                "genericSig": "<τ_0_0 where τ_0_0 : AnswerBotSDK.InteractionDataProtocol>",
+                "sugared_genericSig": "<Self where Self : AnswerBotSDK.InteractionDataProtocol>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:12AnswerBotSDK23InteractionDataProtocolP",
+        "mangledName": "$s12AnswerBotSDK23InteractionDataProtocolP",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "InteractionData",
+        "printedName": "InteractionData",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "deflectionId",
+            "printedName": "deflectionId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int64",
+                "printedName": "Swift.Int64",
+                "usr": "s:s5Int64V"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12AnswerBotSDK15InteractionDataV12deflectionIds5Int64Vvp",
+            "mangledName": "$s12AnswerBotSDK15InteractionDataV12deflectionIds5Int64Vvp",
+            "moduleName": "AnswerBotSDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int64",
+                    "printedName": "Swift.Int64",
+                    "usr": "s:s5Int64V"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12AnswerBotSDK15InteractionDataV12deflectionIds5Int64Vvg",
+                "mangledName": "$s12AnswerBotSDK15InteractionDataV12deflectionIds5Int64Vvg",
+                "moduleName": "AnswerBotSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "interactionAccessToken",
+            "printedName": "interactionAccessToken",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12AnswerBotSDK15InteractionDataV22interactionAccessTokenSSvp",
+            "mangledName": "$s12AnswerBotSDK15InteractionDataV22interactionAccessTokenSSvp",
+            "moduleName": "AnswerBotSDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12AnswerBotSDK15InteractionDataV22interactionAccessTokenSSvg",
+                "mangledName": "$s12AnswerBotSDK15InteractionDataV22interactionAccessTokenSSvg",
+                "moduleName": "AnswerBotSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(deflectionId:interactionAccessToken:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "InteractionData",
+                "printedName": "AnswerBotSDK.InteractionData",
+                "usr": "s:12AnswerBotSDK15InteractionDataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int64",
+                "printedName": "Swift.Int64",
+                "usr": "s:s5Int64V"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:12AnswerBotSDK15InteractionDataV12deflectionId22interactionAccessTokenACs5Int64V_SStcfc",
+            "mangledName": "$s12AnswerBotSDK15InteractionDataV12deflectionId22interactionAccessTokenACs5Int64V_SStcfc",
+            "moduleName": "AnswerBotSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "InteractionData",
+                "printedName": "AnswerBotSDK.InteractionData",
+                "usr": "s:12AnswerBotSDK15InteractionDataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "InteractionData",
+                "printedName": "AnswerBotSDK.InteractionData",
+                "usr": "s:12AnswerBotSDK15InteractionDataV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12AnswerBotSDK15InteractionDataV2eeoiySbAC_ACtFZ",
+            "mangledName": "$s12AnswerBotSDK15InteractionDataV2eeoiySbAC_ACtFZ",
+            "moduleName": "AnswerBotSDK",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:12AnswerBotSDK15InteractionDataV",
+        "mangledName": "$s12AnswerBotSDK15InteractionDataV",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "InteractionDataProtocol",
+            "printedName": "InteractionDataProtocol",
+            "usr": "s:12AnswerBotSDK23InteractionDataProtocolP",
+            "mangledName": "$s12AnswerBotSDK23InteractionDataProtocolP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MessagingAPI",
+        "printedName": "MessagingAPI",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ZendeskCoreSDK",
+        "printedName": "ZendeskCoreSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SupportProvidersSDK",
+        "printedName": "SupportProvidersSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AnswerBotProvidersSDK",
+        "printedName": "AnswerBotProvidersSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MessagingAPI",
+        "printedName": "MessagingAPI",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SDKConfigurations",
+        "printedName": "SDKConfigurations",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AnswerBotProvidersSDK",
+        "printedName": "AnswerBotProvidersSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CommonUISDK",
+        "printedName": "CommonUISDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AnswerBotEngine",
+        "printedName": "AnswerBotEngine",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "id",
+            "printedName": "id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12AnswerBotSDK0aB6EngineC2idSSvp",
+            "mangledName": "$s12AnswerBotSDK0aB6EngineC2idSSvp",
+            "moduleName": "AnswerBotSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12AnswerBotSDK0aB6EngineC2idSSvg",
+                "mangledName": "$s12AnswerBotSDK0aB6EngineC2idSSvg",
+                "moduleName": "AnswerBotSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "transferOptionDescription",
+            "printedName": "transferOptionDescription",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TransferOptionDescription",
+                "printedName": "MessagingAPI.TransferOptionDescription",
+                "usr": "c:@M@MessagingAPI@objc(cs)ZDKTransferOptionDescription"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12AnswerBotSDK0aB6EngineC25transferOptionDescription12MessagingAPI08TransferfG0Cvp",
+            "mangledName": "$s12AnswerBotSDK0aB6EngineC25transferOptionDescription12MessagingAPI08TransferfG0Cvp",
+            "moduleName": "AnswerBotSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TransferOptionDescription",
+                    "printedName": "MessagingAPI.TransferOptionDescription",
+                    "usr": "c:@M@MessagingAPI@objc(cs)ZDKTransferOptionDescription"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12AnswerBotSDK0aB6EngineC25transferOptionDescription12MessagingAPI08TransferfG0Cvg",
+                "mangledName": "$s12AnswerBotSDK0aB6EngineC25transferOptionDescription12MessagingAPI08TransferfG0Cvg",
+                "moduleName": "AnswerBotSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "onUpdate",
+            "printedName": "onUpdate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[MessagingAPI.ObservableIdentifier : (MessagingAPI.Update) -> ()]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObservableIdentifier",
+                    "printedName": "MessagingAPI.ObservableIdentifier",
+                    "usr": "s:12MessagingAPI20ObservableIdentifierO"
+                  },
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(MessagingAPI.Update) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Update",
+                        "printedName": "MessagingAPI.Update",
+                        "usr": "s:12MessagingAPI6UpdateO"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12AnswerBotSDK0aB6EngineC8onUpdateSDy12MessagingAPI20ObservableIdentifierOyAE0F0OcGvp",
+            "mangledName": "$s12AnswerBotSDK0aB6EngineC8onUpdateSDy12MessagingAPI20ObservableIdentifierOyAE0F0OcGvp",
+            "moduleName": "AnswerBotSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[MessagingAPI.ObservableIdentifier : (MessagingAPI.Update) -> ()]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ObservableIdentifier",
+                        "printedName": "MessagingAPI.ObservableIdentifier",
+                        "usr": "s:12MessagingAPI20ObservableIdentifierO"
+                      },
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(MessagingAPI.Update) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Update",
+                            "printedName": "MessagingAPI.Update",
+                            "usr": "s:12MessagingAPI6UpdateO"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12AnswerBotSDK0aB6EngineC8onUpdateSDy12MessagingAPI20ObservableIdentifierOyAE0F0OcGvg",
+                "mangledName": "$s12AnswerBotSDK0aB6EngineC8onUpdateSDy12MessagingAPI20ObservableIdentifierOyAE0F0OcGvg",
+                "moduleName": "AnswerBotSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[MessagingAPI.ObservableIdentifier : (MessagingAPI.Update) -> ()]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ObservableIdentifier",
+                        "printedName": "MessagingAPI.ObservableIdentifier",
+                        "usr": "s:12MessagingAPI20ObservableIdentifierO"
+                      },
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(MessagingAPI.Update) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Update",
+                            "printedName": "MessagingAPI.Update",
+                            "usr": "s:12MessagingAPI6UpdateO"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12AnswerBotSDK0aB6EngineC8onUpdateSDy12MessagingAPI20ObservableIdentifierOyAE0F0OcGvs",
+                "mangledName": "$s12AnswerBotSDK0aB6EngineC8onUpdateSDy12MessagingAPI20ObservableIdentifierOyAE0F0OcGvs",
+                "moduleName": "AnswerBotSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12AnswerBotSDK0aB6EngineC8onUpdateSDy12MessagingAPI20ObservableIdentifierOyAE0F0OcGvM",
+                "mangledName": "$s12AnswerBotSDK0aB6EngineC8onUpdateSDy12MessagingAPI20ObservableIdentifierOyAE0F0OcGvM",
+                "moduleName": "AnswerBotSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "isConversationOngoing",
+            "printedName": "isConversationOngoing()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12AnswerBotSDK0aB6EngineC21isConversationOngoingSbyF",
+            "mangledName": "$s12AnswerBotSDK0aB6EngineC21isConversationOngoingSbyF",
+            "moduleName": "AnswerBotSDK",
+            "deprecated": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "Available"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isConversationOngoing",
+            "printedName": "isConversationOngoing(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Bool) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AnswerBotSDK@objc(cs)ZDKAnswerBotEngine(im)isConversationOngoing:",
+            "mangledName": "$s12AnswerBotSDK0aB6EngineC21isConversationOngoingyyySbcF",
+            "moduleName": "AnswerBotSDK",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start(messagingAPI:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "MessagingAPIProtocol",
+                "printedName": "MessagingAPI.MessagingAPIProtocol",
+                "usr": "s:12MessagingAPI0A11APIProtocolP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12AnswerBotSDK0aB6EngineC5start12messagingAPIy09MessagingG00H11APIProtocol_p_tF",
+            "mangledName": "$s12AnswerBotSDK0aB6EngineC5start12messagingAPIy09MessagingG00H11APIProtocol_p_tF",
+            "moduleName": "AnswerBotSDK",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stop",
+            "printedName": "stop()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12AnswerBotSDK0aB6EngineC4stopyyF",
+            "mangledName": "$s12AnswerBotSDK0aB6EngineC4stopyyF",
+            "moduleName": "AnswerBotSDK",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onEvent",
+            "printedName": "onEvent(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Event",
+                "printedName": "MessagingAPI.Event",
+                "usr": "s:12MessagingAPI5EventO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12AnswerBotSDK0aB6EngineC7onEventyy12MessagingAPI0F0OF",
+            "mangledName": "$s12AnswerBotSDK0aB6EngineC7onEventyy12MessagingAPI0F0OF",
+            "moduleName": "AnswerBotSDK",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "engine",
+            "printedName": "engine()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AnswerBotEngine",
+                "printedName": "AnswerBotSDK.AnswerBotEngine",
+                "usr": "c:@M@AnswerBotSDK@objc(cs)ZDKAnswerBotEngine"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AnswerBotSDK@objc(cs)ZDKAnswerBotEngine(cm)engineAndReturnError:",
+            "mangledName": "$s12AnswerBotSDK0aB6EngineC6engineACyKFZ",
+            "moduleName": "AnswerBotSDK",
+            "static": true,
+            "objc_name": "engineAndReturnError:",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AnswerBotEngine",
+                "printedName": "AnswerBotSDK.AnswerBotEngine",
+                "usr": "c:@M@AnswerBotSDK@objc(cs)ZDKAnswerBotEngine"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@AnswerBotSDK@objc(cs)ZDKAnswerBotEngine(im)init",
+            "mangledName": "$s12AnswerBotSDK0aB6EngineCACycfc",
+            "moduleName": "AnswerBotSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "observeUpdates",
+            "printedName": "observeUpdates(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ObservationToken",
+                "printedName": "MessagingAPI.ObservationToken",
+                "usr": "c:@M@MessagingAPI@objc(cs)ZDKObservationToken"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(MessagingAPI.Update) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Update",
+                    "printedName": "MessagingAPI.Update",
+                    "usr": "s:12MessagingAPI6UpdateO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12AnswerBotSDK0aB6EngineC14observeUpdatesy12MessagingAPI16ObservationTokenCyAE6UpdateOcF",
+            "mangledName": "$s12AnswerBotSDK0aB6EngineC14observeUpdatesy12MessagingAPI16ObservationTokenCyAE6UpdateOcF",
+            "moduleName": "AnswerBotSDK",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@AnswerBotSDK@objc(cs)ZDKAnswerBotEngine",
+        "mangledName": "$s12AnswerBotSDK0aB6EngineC",
+        "moduleName": "AnswerBotSDK",
+        "objc_name": "ZDKAnswerBotEngine",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Engine",
+            "printedName": "Engine",
+            "usr": "s:12MessagingAPI6EngineP",
+            "mangledName": "$s12MessagingAPI6EngineP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ZDKEngine",
+            "printedName": "ZDKEngine",
+            "usr": "c:@M@MessagingAPI@objc(pl)ZDKEngine",
+            "mangledName": "$s12MessagingAPI9ZDKEngineP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Observable",
+            "printedName": "Observable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Observable",
+                "printedName": "Observable",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Update",
+                    "printedName": "MessagingAPI.Update",
+                    "usr": "s:12MessagingAPI6UpdateO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:12MessagingAPI10ObservableP",
+            "mangledName": "$s12MessagingAPI10ObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CommonUISDK",
+        "printedName": "CommonUISDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CommonUISDK",
+        "printedName": "CommonUISDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AnswerBotProvidersSDK",
+        "printedName": "AnswerBotProvidersSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SupportProvidersSDK",
+        "printedName": "SupportProvidersSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CommonUISDK",
+        "printedName": "CommonUISDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AnswerBotProvidersSDK",
+        "printedName": "AnswerBotProvidersSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "MessagingAPI",
+        "printedName": "MessagingAPI",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AnswerBotProvidersSDK",
+        "printedName": "AnswerBotProvidersSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CommonUISDK",
+        "printedName": "CommonUISDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "ZendeskCoreSDK",
+        "printedName": "ZendeskCoreSDK",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "MessagingAPI",
+        "printedName": "MessagingAPI",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "AnswerBotSDK"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotNetworkHelper.swift",
+      "kind": "Array",
+      "offset": 3024,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotNetworkHelper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3239,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotNetworkHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 4011,
+      "length": 71,
+      "value": "\"Accepting articleID: \""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotNetworkHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 4045,
+      "length": 1,
+      "value": "\", with deflectionID: \""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotNetworkHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 4081,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotNetworkHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 4696,
+      "length": 83,
+      "value": "\"Rejecting article with articleID: \""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotNetworkHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 4743,
+      "length": 1,
+      "value": "\", and deflectionID: \""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotNetworkHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 4778,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Models\/AnswerBotDeflectionMessage.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1419,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/TypingIndicatorHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 766,
+      "length": 17,
+      "value": "\"ANIMATION_DELAY\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/TypingIndicatorHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1149,
+      "length": 4,
+      "value": "1200"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 660,
+      "length": 11,
+      "value": "\"answerBot\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 708,
+      "length": 19,
+      "value": "\"\/AnswerBotStrings\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 902,
+      "length": 30,
+      "value": "\"ios.answer_bot.text.label.hi\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 999,
+      "length": 5,
+      "value": "\"Hi!\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1072,
+      "length": 42,
+      "value": "\"ios.answer_bot.text.label.ask_a_question\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1191,
+      "length": 53,
+      "value": "\"Ask me a question and I'll find the answer for you.\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1308,
+      "length": 36,
+      "value": "\"ios.answer_bot.text.label.disabled\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1417,
+      "length": 71,
+      "value": "\"Uh-oh. Sorry, something’s up. I can’t answer questions right now.\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1551,
+      "length": 38,
+      "value": "\"ios.answer_bot.cell.text.no_articles\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1661,
+      "length": 40,
+      "value": "\"I couldn't find any relevant articles.\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1767,
+      "length": 41,
+      "value": "\"ios.answer_bot.cell.text.single_article\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1883,
+      "length": 34,
+      "value": "\"Here's an article that may help:\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1982,
+      "length": 40,
+      "value": "\"ios.answer_bot.cell.text.many_articles\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2096,
+      "length": 39,
+      "value": "\"Here are some articles that may help:\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2196,
+      "length": 46,
+      "value": "\"ios.answer_bot.article.view.anwser.label.yes\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2312,
+      "length": 5,
+      "value": "\"Yes\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2383,
+      "length": 44,
+      "value": "\"ios.answer_bot.article_view.label.question\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2502,
+      "length": 41,
+      "value": "\"Does this article answer your question?\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2614,
+      "length": 58,
+      "value": "\"ios.answer_bot.cell.text.inactivity_get_in_touch_message\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2752,
+      "length": 26,
+      "value": "\"Or you can get in touch.\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2856,
+      "length": 46,
+      "value": "\"ios.answer_bot.cell.text.question_unresolved\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2989,
+      "length": 43,
+      "value": "\"I see. Your question is still unresolved.\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3103,
+      "length": 44,
+      "value": "\"ios.answer_bot.cell.text.question_resolved\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3163,
+      "length": 27,
+      "value": "\"Nice. Knowledge is power.\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3263,
+      "length": 48,
+      "value": "\"ios.answer_bot.cell.text.type_another_question\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3393,
+      "length": 74,
+      "value": "\"If there's anything else I can find for you, just type another question.\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3544,
+      "length": 51,
+      "value": "\"ios.answer_bot.cell.text.article_helpful_question\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3681,
+      "length": 58,
+      "value": "\"Did the article you viewed help to answer your question?\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3799,
+      "length": 48,
+      "value": "\"ios.answer_bot.resolution_view.button.label.no\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3863,
+      "length": 4,
+      "value": "\"No\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3940,
+      "length": 58,
+      "value": "\"ios.answer_bot.resolution_view.question.text.tell_us_why\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 4080,
+      "length": 43,
+      "value": "\"Was the article related to your question?\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 4203,
+      "length": 59,
+      "value": "\"ios.answer_bot.resolution_view.question.text.tell_us_more\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 4351,
+      "length": 64,
+      "value": "\"Please tell us more. Was the article related to your question?\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 4490,
+      "length": 50,
+      "value": "\"ios.answer_bot.cell.text.ask_me_another_question\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 4624,
+      "length": 37,
+      "value": "\"Or you can ask me another question.\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 4745,
+      "length": 70,
+      "value": "\"ios.answer_bot.cell.text.ask_me_another_question_no_transfer_options\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 4899,
+      "length": 41,
+      "value": "\"You can try asking me another question.\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 5016,
+      "length": 50,
+      "value": "\"ios.answer_bot.ui.type_your_question.input.label\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 5151,
+      "length": 23,
+      "value": "\"Type your question…\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 5313,
+      "length": 6,
+      "value": "\"back\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5388,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5446,
+      "length": 2,
+      "value": "28"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 5517,
+      "length": 23,
+      "value": "\"Create_Request_Action\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 5573,
+      "length": 12,
+      "value": "\"controller\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 5615,
+      "length": 9,
+      "value": "\"configs\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5757,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5808,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5864,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5912,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5965,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6014,
+      "length": 2,
+      "value": "64"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6065,
+      "length": 3,
+      "value": "230"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6128,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6180,
+      "length": 2,
+      "value": "17"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6256,
+      "length": 4,
+      "value": "1200"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 6340,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Global\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 6387,
+      "length": 4,
+      "value": "10.0"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1234,
+      "length": 296,
+      "value": "\"<html dir=auto><head><header><meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no'><\/header><style>%@<\/style><\/head><body><h1>%@<\/h1>%@<footer><p><span>%@<\/span> • <span dir=auto>%@<\/span><\/p><\/footer><\/body><\/html>\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3334,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4256,
+      "length": 27,
+      "value": "\"help_center_article_style\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4293,
+      "length": 5,
+      "value": "\"css\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4421,
+      "length": 38,
+      "value": "\"error: \""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4458,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Models\/AnswerBotActionOptionsMessage.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1435,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ResolutionButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 781,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ResolutionButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 822,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ResolutionButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 867,
+      "length": 2,
+      "value": "22"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ResolutionButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 909,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ResolutionButton.swift",
+      "kind": "StringLiteral",
+      "offset": 1157,
+      "length": 39,
+      "value": "\"init(coder:) has not been implemented\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ResolutionButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1589,
+      "length": 2,
+      "value": "80"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ResolutionButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1687,
+      "length": 2,
+      "value": "44"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ResolutionButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1928,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/HelpCenterLinkDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 361,
+      "length": 26,
+      "value": "\"Could not get accountUrl\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/HelpCenterLinkDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 516,
+      "length": 31,
+      "value": "\"Skipping external URL: \""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/HelpCenterLinkDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 546,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/HelpCenterLinkDetector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 682,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/HelpCenterLinkDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 722,
+      "length": 57,
+      "value": "\"Unexpected component count: \""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/HelpCenterLinkDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 778,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/HelpCenterLinkDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 942,
+      "length": 6,
+      "value": "\"\/hc\/\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/HelpCenterLinkDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 1077,
+      "length": 12,
+      "value": "\"\/articles\/\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/HelpCenterLinkDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 1231,
+      "length": 3,
+      "value": "\"-\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/HelpCenterLinkDetector.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1539,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Models\/AnswerBotTextMessage.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1526,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "Dictionary",
+      "offset": 3307,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 3356,
+      "length": 21,
+      "value": "\"Opened successfully\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 3398,
+      "length": 16,
+      "value": "\"Failed to open\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 3651,
+      "length": 76,
+      "value": "\"Accepting articleID: \""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 3685,
+      "length": 1,
+      "value": "\", with deflectionID: \""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 3726,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 4247,
+      "length": 38,
+      "value": "\"Error: \""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 4284,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 4465,
+      "length": 88,
+      "value": "\"Rejecting article with articleID: \""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 4512,
+      "length": 1,
+      "value": "\", and deflectionID: \""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 4552,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 5113,
+      "length": 38,
+      "value": "\"Error: \""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 5150,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5282,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5434,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5867,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6213,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6645,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 984,
+      "length": 12,
+      "value": "\"Answer Bot\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1505,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1543,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "Array",
+      "offset": 1598,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "Array",
+      "offset": 1764,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1942,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2060,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2206,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2301,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2468,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2746,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2802,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3282,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 796,
+      "length": 15,
+      "value": "\"AnswerBotSDK.AnswerBotEngine\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6715,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7529,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8343,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9460,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9547,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9757,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9898,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10147,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10607,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10693,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13023,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 14050,
+      "length": 14,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 14063,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14973,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15073,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15799,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15899,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17633,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17728,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18375,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18470,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19912,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20120,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20151,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21020,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21205,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21591,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Engine\/AnswerBotEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 23025,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/Common\/Common\/Array+Indices.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1012,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/Common\/Common\/Array+Indices.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1015,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ResolutionBorderView.swift",
+      "kind": "FloatLiteral",
+      "offset": 744,
+      "length": 3,
+      "value": "8.0"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ResolutionBorderView.swift",
+      "kind": "FloatLiteral",
+      "offset": 832,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1245,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2410,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2632,
+      "length": 26,
+      "value": "\"ZDKarticleNegativeButton\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2708,
+      "length": 26,
+      "value": "\"ZDKarticlePositiveButton\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2783,
+      "length": 18,
+      "value": "\"ZDKquestionLabel\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3140,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3487,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3542,
+      "length": 9,
+      "value": "\"ZDKback\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3759,
+      "length": 3,
+      "value": "146"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4041,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4113,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4266,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4519,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4723,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6825,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6867,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7191,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7451,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7784,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7888,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8214,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 8625,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 8631,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8749,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 8882,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 9169,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 9304,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 9365,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9454,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 9601,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 9654,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Models\/AnswerBotResponseMessage.swift",
+      "kind": "StringLiteral",
+      "offset": 1091,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Models\/AnswerBotResponseMessage.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1588,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/Common\/Common\/BundleUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 1509,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/Common\/Common\/BundleUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 1960,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/Common\/Common\/BundleUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 2136,
+      "length": 13,
+      "value": "\"Localizable\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/Common\/Common\/BundleUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 3020,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/MobileSDKs-cwitlnobnjydkrgezoczllpmunkg\/Build\/Intermediates.noindex\/ArchiveIntermediates\/AnswerBotSDK-Release\/IntermediateBuildFilesPath\/AnswerBotSDK.build\/Release-iphonesimulator\/AnswerBotSDK-Release.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 721,
+      "length": 6,
+      "value": "\"back\""
+    }
+  ]
+}
