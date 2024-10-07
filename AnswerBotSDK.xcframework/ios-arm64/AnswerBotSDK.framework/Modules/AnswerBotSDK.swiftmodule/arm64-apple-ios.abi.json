@@ -2084,126 +2084,126 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "Dictionary",
-      "offset": 3307,
+      "offset": 3306,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 3356,
+      "offset": 3355,
       "length": 21,
       "value": "\"Opened successfully\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 3398,
+      "offset": 3397,
       "length": 16,
       "value": "\"Failed to open\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 3651,
+      "offset": 3650,
       "length": 76,
       "value": "\"Accepting articleID: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 3685,
+      "offset": 3684,
       "length": 1,
       "value": "\", with deflectionID: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 3726,
+      "offset": 3725,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 4247,
+      "offset": 4246,
       "length": 38,
       "value": "\"Error: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 4284,
+      "offset": 4283,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 4465,
+      "offset": 4464,
       "length": 88,
       "value": "\"Rejecting article with articleID: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 4512,
+      "offset": 4511,
       "length": 1,
       "value": "\", and deflectionID: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 4552,
+      "offset": 4551,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 5113,
+      "offset": 5112,
       "length": 38,
       "value": "\"Error: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 5150,
+      "offset": 5149,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 5282,
+      "offset": 5281,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 5434,
+      "offset": 5433,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 5867,
+      "offset": 5866,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 6213,
+      "offset": 6212,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 6645,
+      "offset": 6644,
       "length": 4,
       "value": "true"
     },
@@ -2651,98 +2651,98 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7451,
+      "offset": 7450,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7784,
+      "offset": 7783,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7888,
+      "offset": 7887,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8214,
+      "offset": 8213,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8625,
+      "offset": 8624,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8631,
+      "offset": 8630,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8749,
+      "offset": 8748,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8882,
+      "offset": 8881,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 9169,
+      "offset": 9168,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 9304,
+      "offset": 9303,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 9365,
+      "offset": 9364,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9454,
+      "offset": 9453,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 9601,
+      "offset": 9600,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/zendesk_mobile_sdks_ios\/zendesk_mobile_sdks_ios\/AnswerBotSDK\/AnswerBotSDK\/Source\/Article View\/Article\/ArticleViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 9654,
+      "offset": 9653,
       "length": 3,
       "value": "1.0"
     },

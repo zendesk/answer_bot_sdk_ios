@@ -328,11 +328,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qCgBknFmDIH+fvplhcoxSZkMuYA=
+		JcmI1EdNmgV8hlMPxtFW9o5sOQY=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		+nY76z40hF5P3pcJyGfFuLG9kYo=
+		kTLoiCTk2bHnA/ZP/j/H7UgJdWE=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -352,7 +352,7 @@
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		+nY76z40hF5P3pcJyGfFuLG9kYo=
+		kTLoiCTk2bHnA/ZP/j/H7UgJdWE=
 		</data>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -719,7 +719,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IVbD/6HAk3dRWjXoNHUI1ZEo40Yx4DGQcwvtGc5iSFM=
+			wxUWqi4wEDzkxTzE46SfpdVjqVmEsK+aNbpzgpnOfw0=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -754,7 +754,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IVbD/6HAk3dRWjXoNHUI1ZEo40Yx4DGQcwvtGc5iSFM=
+			wxUWqi4wEDzkxTzE46SfpdVjqVmEsK+aNbpzgpnOfw0=
 			</data>
 		</dict>
 		<key>Modules/AnswerBotSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
