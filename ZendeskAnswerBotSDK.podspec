@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ZendeskAnswerBotSDK"
-  s.version      = "6.0.2"
+  s.version      = "6.0.3"
   s.summary      = "ZendeskAnswerBotSDK #{s.version.to_s}"
   s.homepage     = "https://developer.zendesk.com/documentation/classic-web-widget-sdks/"
   s.license      = {
@@ -23,5 +23,5 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/zendesk/answer_bot_sdk_ios.git", :tag => s.version }
   s.vendored_frameworks = 'AnswerBotSDK.xcframework'
   s.dependency 'ZendeskAnswerBotProvidersSDK', '~> 6.0.0'
-  s.dependency 'ZendeskMessagingSDK', '~> 6.2.0'
+  s.dependency 'ZendeskMessagingSDK', '~> 6.3.0'
 end
